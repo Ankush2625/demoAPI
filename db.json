@@ -498,56 +498,6 @@
     "received_events_url": "https://api.github.com/users/KirinDave/received_events",
     "type": "User",
     "site_admin": false
-  },
-  {
-    "login": "jamesgolick",
-    "id": 37,
-    "node_id": "MDQ6VXNlcjM3",
-    "avatar_url": "https://avatars2.githubusercontent.com/u/37?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/jamesgolick",
-    "html_url": "https://github.com/jamesgolick",
-    "followers_url": "https://api.github.com/users/jamesgolick/followers",
-    "following_url": "https://api.github.com/users/jamesgolick/following{/other_user}",
-    "gists_url": "https://api.github.com/users/jamesgolick/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/jamesgolick/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/jamesgolick/subscriptions",
-    "organizations_url": "https://api.github.com/users/jamesgolick/orgs",
-    "repos_url": "https://api.github.com/users/jamesgolick/repos",
-    "events_url": "https://api.github.com/users/jamesgolick/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/jamesgolick/received_events",
-    "type": "User",
-    "site_admin": false
-  },
-  {
-    "login": "atmos",
-    "id": 38,
-    "node_id": "MDQ6VXNlcjM4",
-    "avatar_url": "https://avatars3.githubusercontent.com/u/38?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/atmos",
-    "html_url": "https://github.com/atmos",
-    "followers_url": "https://api.github.com/users/atmos/followers",
-    "following_url": "https://api.github.com/users/atmos/following{/other_user}",
-    "gists_url": "https://api.github.com/users/atmos/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/atmos/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/atmos/subscriptions",
-    "organizations_url": "https://api.github.com/users/atmos/orgs",
-    "repos_url": "https://api.github.com/users/atmos/repos",
-    "events_url": "https://api.github.com/users/atmos/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/atmos/received_events",
-    "type": "User",
-    "site_admin": false
-  },
-  {
-    "login": "errfree",
-    "id": 44,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0",
-    "avatar_url": "https://avatars2.githubusercontent.com/u/44?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/errfree",
-    "html_url": "https://github.com/errfree",
-    "followers_url": "https://api.github.com/users/errfree/followers",
-    "following_url": "https://api.github.com/users/errfree/following{/other_user}"
   }
+
 ]
